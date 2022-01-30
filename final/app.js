@@ -295,7 +295,7 @@ function diplayCoursesItems(CoursesItems) {
     // console.log(item);
 
     return `<article class="menu-item">
-          <a href= ${item.link} target="blank">
+          <a href= ${item.link} target="_blank">
           <img src=${item.img} alt=${item.title} class="photo"/>
           </a>
           <div class="item-info">
@@ -312,6 +312,8 @@ function diplayCoursesItems(CoursesItems) {
   displayCourses = displayCourses.join("");
   sectionCenter.innerHTML = displayCourses;
 }
+
+
 function displayCoursesButtons() {
   const categories = courses.reduce(
     function (values, item) {

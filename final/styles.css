@@ -43,6 +43,7 @@ Variables
   --clr-green-dark: hsl(125, 67%, 44%);
   --clr-green-light: hsl(125, 71%, 66%);
   --clr-gold: #c59d5f;
+  --clr-grey: #646464;
   --clr-black: #222;
   --ff-primary: "Roboto", sans-serif;
   --ff-secondary: "Open Sans", sans-serif;
@@ -225,6 +226,13 @@ Menu
   object-fit: cover;
   height: 200px;
   border: 0.25rem solid var(--clr-gold);
+  border-radius: var(--radius);
+}
+.photo:hover
+{
+  height:102%;
+  width:102%;
+  border: 0.25rem solid var(--clr-grey);
   border-radius: var(--radius);
 }
 .item-info header {
