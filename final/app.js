@@ -4,6 +4,7 @@ const courses = [
     title: "Calculus 1",
     category: "First Year",
     date: '01/2022',
+    link: "https://drive.google.com/drive/folders/18MyQdZRvLZNOQ64u8mg0SRtOMw_g5e2A?usp=sharing",
     img: "./images/calculus1-course.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
@@ -264,7 +265,9 @@ function diplayCoursesItems(CoursesItems) {
     // console.log(item);
 
     return `<article class="menu-item">
-          <img src=${item.img} alt=${item.title} class="photo" />
+          <a href= ${item.link} target="blank">
+          <img src=${item.img} alt=${item.title} class="photo"/>
+          </a>
           <div class="item-info">
             <header>
               <h4>${item.title}</h4>
