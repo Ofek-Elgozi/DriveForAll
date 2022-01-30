@@ -81,75 +81,75 @@ const courses = [
   },
   {
     id: 11,
-    title: "Calculus 2",
+    title: "Software Engineering Basics",
     category: "Second Year",
     date: '01/2022',
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 12,
-    title: "Calculus 2",
+    title: "SE Requirements",
     category: "Second Year",
     date: '01/2022',
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 13,
-    title: "Calculus 2",
+    title: "Programming principles (Python)",
     category: "Second Year",
     date: '01/2022',
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 14,
-    title: "Calculus 2",
+    title: "Physics Software Engineering",
     category: "Second Year",
     date: '01/2022',
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 15,
-    title: "Calculus 2",
+    title: "Numerical Analysis",
     category: "Second Year",
     date: '01/2022',
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 16,
-    title: "Calculus 2",
+    title: "Data Structures",
     category: "Second Year",
     date: '01/2022',
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 17,
-    title: "Calculus 2",
+    title: "Automata and formal languages",
     category: "Second Year",
     date: '01/2022',
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 18,
-    title: "Calculus 2",
+    title: "Advance OOP (Java)  ",
     category: "Second Year",
     date: '01/2022',
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 19,
-    title: "Calculus 2",
+    title: " Algorithms I",
     category: "Second Year",
     date: '01/2022',
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
     id: 20,
@@ -312,7 +312,8 @@ function displayCoursesButtons() {
           return courseYear;
         }
       });
-      if (category === "all") {
+      if (category === "all Year") 
+      {
         diplayCoursesItems(courses);
       } else {
         diplayCoursesItems(coursesCategory);
