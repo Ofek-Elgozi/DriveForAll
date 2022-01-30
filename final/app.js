@@ -36,7 +36,7 @@ const courses = [
     title: "Linear Algebra",
     category: "First Year",
     date: '01/2022',
-    img: "./images/linar-course.jpg",
+    img: "./images/linar-course.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
