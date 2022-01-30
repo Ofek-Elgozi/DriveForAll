@@ -4,7 +4,7 @@ const courses = [
     title: "Calculus 1",
     category: "First Year",
     date: '01/2022',
-    img: "./images/calculus1-course.jpg",
+    img: "./images/calculus1-course.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -12,7 +12,7 @@ const courses = [
     title: "Computer Architerture I",
     category: "First Year",
     date: '01/2022',
-    img: "./images/archi1-course.jpg",
+    img: "./images/archi1-course.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -20,7 +20,7 @@ const courses = [
     title: "Discrete mathematics I",
     category: "First Year",
     date: '01/2022',
-    img: "./images/logic-one-course.jpg",
+    img: "./images/logic1-course.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -28,7 +28,7 @@ const courses = [
     title: "Introduction to Computer Science (C)",
     category: "First Year",
     date: '01/2022',
-    img: "./images/C-course.jpg",
+    img: "./images/c-course.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -44,7 +44,7 @@ const courses = [
     title: "Calculus 2",
     category: "First Year",
     date: '01/2022',
-    img: "./images/calculus2-course.jpg",
+    img: "./images/calculus2-course.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -52,7 +52,7 @@ const courses = [
     title: "Discrete mathematics II",
     category: "First Year",
     date: '01/2022',
-    img: "./images/item-1.jpg",
+    img: "./images/logic2-course.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -60,7 +60,7 @@ const courses = [
     title: "Computer Architerture II",
     category: "First Year",
     date: '01/2022',
-    img: "./images/item-1.jpg",
+    img: "./images/archi2.jpg",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
