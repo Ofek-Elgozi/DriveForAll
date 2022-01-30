@@ -84,7 +84,7 @@ const courses = [
     title: "Software Engineering Basics",
     category: "Second Year",
     date: '01/2022',
-    img: "./images/item-2.jpg",
+    img: "./images/Basics.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -92,7 +92,7 @@ const courses = [
     title: "SE Requirements",
     category: "Second Year",
     date: '01/2022',
-    img: "./images/item-2.jpg",
+    img: "./images/Requirements.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -100,7 +100,7 @@ const courses = [
     title: "Programming principles (Python)",
     category: "Second Year",
     date: '01/2022',
-    img: "./images/item-2.jpg",
+    img: "./images/Python.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -108,7 +108,7 @@ const courses = [
     title: "Physics Software Engineering",
     category: "Second Year",
     date: '01/2022',
-    img: "./images/item-2.jpg",
+    img: "./images/Physics.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -116,7 +116,7 @@ const courses = [
     title: "Numerical Analysis",
     category: "Second Year",
     date: '01/2022',
-    img: "./images/item-2.jpg",
+    img: "./images/Numerical-Analysis.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -124,7 +124,7 @@ const courses = [
     title: "Data Structures",
     category: "Second Year",
     date: '01/2022',
-    img: "./images/item-2.jpg",
+    img: "./images/Data-Structures.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -132,7 +132,7 @@ const courses = [
     title: "Automata and formal languages",
     category: "Second Year",
     date: '01/2022',
-    img: "./images/item-2.jpg",
+    img: "./images/Automata.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -140,7 +140,7 @@ const courses = [
     title: "Advance OOP (Java)  ",
     category: "Second Year",
     date: '01/2022',
-    img: "./images/item-2.jpg",
+    img: "./images/Advance-OOP.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -148,7 +148,7 @@ const courses = [
     title: " Algorithms I",
     category: "Second Year",
     date: '01/2022',
-    img: "./images/item-2.jpg",
+    img: "./images/Algorithms.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
