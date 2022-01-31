@@ -167,7 +167,7 @@ const courses = [
     category: "Second Year",
     date: '01/2022',
     link: "https://drive.google.com/drive/folders/1mrOqx1raLPeT2VJ0q8ytIiTMpuMBsFWF?usp=sharing",
-    img: "./images/algo2.jpg",
+    img: "./images/Algorithms.png",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -212,7 +212,7 @@ const courses = [
     category: "Third Year",
     date: '01/2022',
     link: "https://drive.google.com/drive/folders/1N6_mZiJocsx99S8iUJQUw3dQ8a_nTK3k?usp=sharing",
-    img: "./images/item-2.jpg",
+    img: "./images/Android.png",
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {
@@ -230,7 +230,7 @@ const courses = [
     category: "Third Year",
     date: '01/2022',
     link: "https://drive.google.com/drive/folders/1E_j1Vr7f_kcNRxg-YwtarE-ytkU-Lvs4?usp=sharing",
-    img: "./images/item-2.jpg",
+    img: "./images/Operating-Systems.png",
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {
