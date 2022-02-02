@@ -185,7 +185,7 @@ const courses = [
     category: "Third Year",
     date: '01/2022',
     link: "https://drive.google.com/drive/folders/1nZlziICxOJHVGtZ8RtvyNo5Wcj6XTM9Q?usp=sharing",
-    img: "./images/item-2.jpg",
+    img: "./images/testing-course.jpg",
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {
@@ -203,7 +203,7 @@ const courses = [
     category: "Third Year",
     date: '01/2022',
     link: "https://drive.google.com/drive/folders/1niovDoj7duCoh65NCjUdYYeQared4Zci?usp=sharing",
-    img: "./images/item-2.jpg",
+    img: "./images/intro-comu-course.jpg",
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {
@@ -239,7 +239,7 @@ const courses = [
     category: "Third Year",
     date: '01/2022',
     link: "https://drive.google.com/drive/folders/1HHB027uaMcsj8Beuk1S91ZUrhtR1vclv?usp=sharing",
-    img: "./images/item-2.jpg",
+    img: "./images/network-course.jpg",
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {

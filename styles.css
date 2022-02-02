@@ -309,6 +309,18 @@ html {
   border: 0.25rem solid var(--clr-grey);
   text-align: center;
 }
+.contact{
+  text-size-adjust:10px;
+  padding: 0 16px;
+  text-align: center;
+}
+#linkdin{
+   width: 3em;
+   height: 3em;
+   margin: 0 auto;
+   justify-items: center;
+   vertical-align: middle;
+}
 
 .container::after, .row::after {
   content: "";
