@@ -355,18 +355,16 @@ html {
   }
 }
 
-.about{
-  display:block;
-}
+
 .box{
-  width: 300px;
+  width: 30%;
   background: rgba(0, 0, 0, 0.219);
-  padding: 40px;
   text-align: center;
-  margin: auto;
-  margin-top: 5%;
+  margin-left: 10px;
   color: rgb(255, 255, 255);
   font-family: 'Century Gothic',sans-serif;
+  float: left;
+  padding: 10px;
 }
 .box-img{
   border-radius: 50%;
