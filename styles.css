@@ -357,19 +357,16 @@ html {
 
 
 .box{
-  width: 30%;
-  background: rgba(0, 0, 0, 0.219);
+  width: 49%;
+  background:#b9b9b9;
+  border-style: outset;
+  border-width: 5px 10px;
   text-align: center;
   margin-left: 10px;
   color: rgb(255, 255, 255);
   font-family: 'Century Gothic',sans-serif;
   float: left;
   padding: 10px;
-}
-.box-img{
-  border-radius: 50%;
-  width: 200px;
-  height: 200px;
 }
 .box h1{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
