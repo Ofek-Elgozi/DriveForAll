@@ -33,7 +33,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1GNJUihmfRyeC_ONr1Kn5z995D5sVifnw?usp=sharing",
     img: "./images/c-course.jpg",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. David Tankus <br>
+      The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Course Projects.`,
   },
   {
     id: 5,
@@ -87,7 +88,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1KKZifBNo8eMr5nk3gYK4ySeMPZZjbxht?usp=sharing",
     img: "./images/cpp-course.jpg",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. David Tankus  / Dr. Tammar Shrot<br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Course Projects.`,
   },
   {
     id: 11,

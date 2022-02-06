@@ -358,12 +358,11 @@ html {
 
 .box{
   width: 49%;
-  background:#b9b9b9;
-  border-style: outset;
-  border-width: 5px 10px;
+  background:lightgray;
+  border-style:initial;
+  border-radius: 5px; 
   text-align: center;
   margin-left: 10px;
-  color: rgb(255, 255, 255);
   font-family: 'Century Gothic',sans-serif;
   float: left;
   padding: 10px;
@@ -372,14 +371,20 @@ html {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: italic;
   font-variant-caps: titling-caps;
-  font-size: 40px;
+  font-size: 45px;
   letter-spacing: 4px;
-  font-weight: 100;
+  font-weight: bold;
+  color: var(--clr-gold);
 }
 .box h5{
   color:#474e5d;
-  font-size: 20px;
-  letter-spacing: 3px;
+  font-size: 28px;
+  letter-spacing: 1px;
+  font-weight: 100;
+}
+.box h6{
+  color:#474e5d;
+  font-size: 18px;
   font-weight: 100;
 }
 .box p{
@@ -396,7 +401,7 @@ ul{
   list-style: none;
 }
 .box li a{
-  color: white;
+  color: var(--clr-gold);
   text-decoration: none;
   font-size: 30px;
   transition: all ease-in-out 250ms;
