@@ -6,7 +6,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/18MyQdZRvLZNOQ64u8mg0SRtOMw_g5e2A?usp=sharing",
     img: "./images/calculus1-course.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Itamar Stein <br>
+      The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 2,
@@ -15,7 +16,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1xDNU1L55xLZYcQW8IBHXY4eamAybSroV?usp=sharing",
     img: "./images/archi1-course.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Esther David<br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 3,
@@ -24,7 +26,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1BSeTz9JFHKTn7ocUuDjCc89_yE9AJQtI?usp=sharing",
     img: "./images/logic1-course.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. David Tankus <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Course Projects.`
   },
   {
     id: 4,
@@ -34,7 +37,7 @@ const courses = [
     link: "https://drive.google.com/drive/folders/1GNJUihmfRyeC_ONr1Kn5z995D5sVifnw?usp=sharing",
     img: "./images/c-course.jpg",
     desc: `Lecturer : Dr. David Tankus <br>
-      The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Course Projects.`,
+      The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Course Projects.`
   },
   {
     id: 5,
@@ -43,7 +46,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1j3Z0V0ffMABOp6uwoeC9wUB5K8imPbDQ?usp=sharing",
     img: "./images/linar-course.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Itamar Stein <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 6,
@@ -52,7 +56,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1BSgZR1iQa_5iUwhZYgNbYy-rQ5753OeS?usp=sharing",
     img: "./images/calculus2-course.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Itamar Stein <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 7,
@@ -61,8 +66,10 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/11wbuSZSTfOZxXsz4C01nfLFkUGlLAQ8_?usp=sharing",
     img: "./images/logic2-course.jpg",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Itamar Stein / Dr. Esther David<br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
+
   {
     id: 8,
     title: "Computer Architerture II",
@@ -70,7 +77,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1Axop2F-LV16Ozd1IrNqOgvZkqTV8EGmf?usp=sharing",
     img: "./images/archi2.jpg",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Marina Knyazhansky / Dr. Esther David<br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Assembly`
   },
   {
     id: 9,
@@ -79,7 +87,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1znD-be3jbb_QAn-GlWLWEb1s8QHYK-rq?usp=sharing",
     img: "./images/ststistics-course.jpg",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Roni Ben-David <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 10,
@@ -89,7 +98,7 @@ const courses = [
     link: "https://drive.google.com/drive/folders/1KKZifBNo8eMr5nk3gYK4ySeMPZZjbxht?usp=sharing",
     img: "./images/cpp-course.jpg",
     desc: `Lecturer : Dr. David Tankus  / Dr. Tammar Shrot<br>
-    The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Course Projects.`,
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Course Projects.`
   },
   {
     id: 11,
@@ -98,16 +107,18 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/10Q3VinM8-F9toxlM2_5Jj6w3c7nbRabZ?usp=sharing",
     img: "./images/Basics.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Mr. Benny Sand <br>
+    The Drive includes:  Sample projects, Assigments solutions, Relevant documents`
   },
   {
     id: 12,
-    title: "SE Requirements",
+    title: "Software Engineering Requirements",
     category: "Second Year",
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1oDHuhM3tLEFbDpjZtOvx_52a7hFoiq5n?usp=sharing",
     img: "./images/Requirements.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Mr. Benny Sand <br>
+    The Drive includes:  Sample projects, Assigments solutions, Relevant documents`
   },
   {
     id: 13,
@@ -116,7 +127,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1mBUKUYPbcjCHLZeqcugQhtSGTjbBr24n?usp=sharing",
     img: "./images/Python.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer :  Dr. Tammar Shrot<br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Course Projects.`
   },
   {
     id: 14,
@@ -125,7 +137,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/12Ks5Rh1BK-fxxzRHSqf8W3n5SxZuh6K5?usp=sharing",
     img: "./images/Physics.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Dmitry Nemirovsky <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 15,
@@ -134,7 +147,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/16MP2OAUl3NUbkrQ6ymGjh96s44JC5iph?usp=sharing",
     img: "./images/Numerical-Analysis.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer :  Prof. Shlomo Mark<br>
+    The Drive includes:  Summaries, Assigments solutions, Sample projects.`
   },
   {
     id: 16,
@@ -143,8 +157,10 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1_yUIXFR4kMlNfVSmwG7XjCIHHWCBecU5?usp=sharing",
     img: "./images/Data-Structures.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Lior Aronshtam <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
+
   {
     id: 17,
     title: "Automata and formal languages",
@@ -152,7 +168,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1gkUBKI9dT53KGzygYmKoToYfOsFJbKoh?usp=sharing",
     img: "./images/Automata.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. David Tankus <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years,`
   },
   {
     id: 18,
@@ -161,7 +178,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1ZMbSHQ9kQsT8OYlrGOYQ2q1kn35sgsWX?usp=sharing",
     img: "./images/Advance-OOP.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer :  Dr. Tammar Shrot<br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years, Course Projects.`
   },
   {
     id: 19,
@@ -170,7 +188,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1mrOqx1raLPeT2VJ0q8ytIiTMpuMBsFWF?usp=sharing",
     img: "./images/Algorithms.png",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Lecturer : Dr. Lior Aronshtam <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 20,
@@ -179,7 +198,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1wWGiwyQ-ezmhDejAJJLZAQSYzFdwZkjV?usp=sharing",
     img: "./images/db-course.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Dr. Marina Knyazhansky <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years, SQL`
   },
   {
     id: 21,
@@ -188,7 +208,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1nZlziICxOJHVGtZ8RtvyNo5Wcj6XTM9Q?usp=sharing",
     img: "./images/testing-course.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Mr. Benny Sand <br>
+    The Drive includes:  Sample projects, Assigments solutions, Relevant documents`
   },
   {
     id: 22,
@@ -197,7 +218,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1JPZDUfiloe80iplQeGDhEJZHr267H0ja?usp=sharing",
     img: "./images/algo2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Dr. Lior Aronshtam <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 23,
@@ -206,7 +228,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1niovDoj7duCoh65NCjUdYYeQared4Zci?usp=sharing",
     img: "./images/intro-comu-course.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Dr. Hadassa Daltrophe <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 24,
@@ -215,7 +238,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1N6_mZiJocsx99S8iUJQUw3dQ8a_nTK3k?usp=sharing",
     img: "./images/Android.png",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `~~ Optional course ~~ <br>  Lecturer : Mr. Eliav Menachi <br>
+    The Drive includes:  Sample projects, Lecture presentations`
   },
   {
     id: 25,
@@ -224,7 +248,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/16DsLtofpgaft605ozqSmI2odTK2j56LC?usp=sharing",
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Mr. Benny Sand <br>
+    The Drive includes:  Sample projects, Assigments solutions, Relevant documents`
   },
   {
     id: 26,
@@ -233,7 +258,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1E_j1Vr7f_kcNRxg-YwtarE-ytkU-Lvs4?usp=sharing",
     img: "./images/Operating-Systems.png",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Mr. Eliav Menachi <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 27,
@@ -242,7 +268,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1HHB027uaMcsj8Beuk1S91ZUrhtR1vclv?usp=sharing",
     img: "./images/network-course.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Dr. Hadassa Daltrophe <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 28,
@@ -251,7 +278,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1WXMsopFmbzhw9BvG2IzjW86FE-d4di2v?usp=sharing",
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Dr. Kiril <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 29,
@@ -260,7 +288,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1d38jY4-JRWxLAYm1XINl2Yusin_mFVtW?usp=sharing",
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Dr. Marina Knyazhansky <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 30,
@@ -269,7 +298,8 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1h3_0DuD3xa-zfXVSvkcBV1AjmBETMBwH?usp=sharing",
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Lecturer : Dr.  <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
   },
   {
     id: 31,
@@ -278,8 +308,9 @@ const courses = [
     date: "01/2022",
     link: "https://drive.google.com/drive/folders/1eAbv6keHEhrcE8ci8TVqboz4wAjPIZJf?usp=sharing",
     img: "./images/item-2.jpg",
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
-  },
+    desc: `Lecturer : Dr. David Tankus <br>
+    The Drive includes:  Summaries, Assigments solutions, Tests from previous years`
+  }
 ];
 // get parent element
 const sectionCenter = document.querySelector(".section-center");
